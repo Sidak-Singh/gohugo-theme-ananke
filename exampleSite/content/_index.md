@@ -1,7 +1,9 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: Medical Articles
 featured_image: "/uploads/cover.jpg"
-description: The last theme you'll ever need. Maybe.
+description: "By Sidak Singh Kalra \U0001F468\U0001F3FD‍⚕️"
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Hi I am Sidak Singh Kalra and this is my medical blog where you can read interesting medical science articles./ 
+
+Hope You enjoy them
